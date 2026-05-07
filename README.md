@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm Sude
 
-<!--
-**sudemasali/sudemasali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineer interested in AI, Business & Technology
 
-Here are some ideas to get you started:
+🌱 Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Analysis
+* Machine Learning
+* Deep Learning
+* Project Management
+* Product Management
+
+🔗 LinkedIn: https://www.linkedin.com/in/sudemasali/
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=A020F0&lines=Computer+Engineer;AI+%26+Data+Science+Enthusiast;Business+%26+Technology)](https://git.io/typing-svg)
